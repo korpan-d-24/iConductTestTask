@@ -1,0 +1,8 @@
+C:\Users\Asus\Desktop\InterviewConsoleBackup.New\InterviewConsoleBackup\InterviewConsole\bin\Debug\InterviewConsole.exe.config
+C:\Users\Asus\Desktop\InterviewConsoleBackup.New\InterviewConsoleBackup\InterviewConsole\bin\Debug\InterviewConsole.exe
+C:\Users\Asus\Desktop\InterviewConsoleBackup.New\InterviewConsoleBackup\InterviewConsole\bin\Debug\InterviewConsole.pdb
+C:\Users\Asus\Desktop\InterviewConsoleBackup.New\InterviewConsoleBackup\InterviewConsole\obj\Debug\InterviewConsole.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\InterviewConsoleBackup.New\InterviewConsoleBackup\InterviewConsole\obj\Debug\InterviewConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\InterviewConsoleBackup.New\InterviewConsoleBackup\InterviewConsole\obj\Debug\InterviewConsole.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\InterviewConsoleBackup.New\InterviewConsoleBackup\InterviewConsole\obj\Debug\InterviewConsole.exe
+C:\Users\Asus\Desktop\InterviewConsoleBackup.New\InterviewConsoleBackup\InterviewConsole\obj\Debug\InterviewConsole.pdb
